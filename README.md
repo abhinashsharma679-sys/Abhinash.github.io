@@ -1,7 +1,18 @@
 # Abhinash.github.io
 
-#include<stdio.h>
-int main () 
-{ printF("hello world");
-printf("this is my first programe");
-return 0;
+# Hi, I'm Abhinash 👋
+
+💻 C Programmer | Cybersecurity Learner  
+🔐 Ethical Hacking & CTF Practice  
+
+## Skills
+- C Programming
+- Linux
+- Networking Basics
+- Cybersecurity Fundamentals
+
+## Goals
+- Become a Cybersecurity Analyst
+- Learn Digital Forensics
+
+📫 Connect with me on LinkedIn
